@@ -1,0 +1,5 @@
+.vscode
+proceeds.csv
+rechnungen/*
+
+!rechnungen/.gitkeep
